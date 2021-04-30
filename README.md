@@ -1,6 +1,6 @@
 # personal_app
 
-A new Flutter project.
+An App for recording your daily and weekly expenses
 
 ## Getting Started
 
